@@ -1,6 +1,7 @@
 - 👋 Merhaba, Ben Umutcan ARSLAN.
 - 20 yaşındayım, küçüklüğümden beri yazılım ve bilgisayar ile ilgileniyorum.
 - GMTAL Bilişim Teknolojileri/Veri Tabanı bölümü mezunuyum ve şu anda Muğla Sıtkı Koçman Üniversitesi'nde Bilgisayar Programcılığı bölümü öğrencisiyim.
+- C#, SQL, VBA, HTML, CSS dilleri ile çalışabilirim.
 - Bana instagram: umutcanarslannn veya e-posta: umutcanarslan_711@hotmail.com ile ulaşabilirsiniz.
 
 <!---
